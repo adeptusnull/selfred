@@ -2,7 +2,7 @@
 
 Treat each LLM as one noisy rater. Run the same personality read across several models, then read the **disagreement** instead of the answers. Where models converge, you have a steadier signal; where they fan out, the data is thin. It's inter-rater reliability pointed at yourself — and a small act of data sovereignty, since you keep your own record rather than trusting one provider's snapshot.
 
-- **Live page:** `https://adeptusnull.github.io/selfred`
+- **Live page:** ['https://adeptusnull.github.io/selfred`]('`https://adeptusnull.github.io/selfred`)
 - **Long-form write-up:** [`inter-rater-self.md`](./inter-rater-self.md)
 - **Interactive dashboard:** [`index.html`](./index.html) (paste each model's JSON, see the spread; save dated runs and track drift over time)
 
